@@ -1,0 +1,16 @@
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\Numeros Multiplicacao.csproj.AssemblyReference.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\Numeros Multiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\Numeros Multiplicacao.AssemblyInfoInputs.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\Numeros Multiplicacao.AssemblyInfo.cs
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\Numeros Multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\bin\Debug\net5.0\Numeros Multiplicacao.exe
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\bin\Debug\net5.0\Numeros Multiplicacao.deps.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\bin\Debug\net5.0\Numeros Multiplicacao.runtimeconfig.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\bin\Debug\net5.0\Numeros Multiplicacao.runtimeconfig.dev.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\bin\Debug\net5.0\Numeros Multiplicacao.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\bin\Debug\net5.0\ref\Numeros Multiplicacao.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\bin\Debug\net5.0\Numeros Multiplicacao.pdb
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\Numeros Multiplicacao.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\ref\Numeros Multiplicacao.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\Numeros Multiplicacao.pdb
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\Numeros Multiplicacao\obj\Debug\net5.0\Numeros Multiplicacao.genruntimeconfig.cache
